@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of 3D Printing Materials",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["materials", "innovation", "future"],
+    "duration": 60,
+    "description": "An in-depth look at the next generation of 3D printing materials and their potential applications."
+  },
+  {
+    "title": "From Hobbyist to Entrepreneur: Starting Your 3D Printing Business",
+    "speakers": ["John 'The Maker' Smith"],
+    "category": ["business", "entrepreneurship", "startup"],
+    "duration": 60,
+    "description": "A practical guide to turning your passion for 3D printing into a successful business venture."
+  },
+  {
+    "title": "Advanced Slicing Techniques for Optimal Prints",
+    "speakers": ["Jane Doe", "Richard Roe"],
+    "category": ["software", "slicing", "optimization"],
+    "duration": 60,
+    "description": "Learn how to master your slicer software to achieve the best possible print quality and speed."
+  },
+  {
+    "title": "Scaling Your 3D Printing Farm",
+    "speakers": ["Emily White"],
+    "category": ["business", "scaling", "production"],
+    "duration": 60,
+    "description": "Strategies and best practices for scaling up your 3D printing operations for mass production."
+  },
+  {
+    "title": "The Legal Landscape of 3D Printing",
+    "speakers": ["David Green, Esq."],
+    "category": ["legal", "intellectual property", "business"],
+    "duration": 60,
+    "description": "Navigating the complex legal issues surrounding 3D printing, including copyright and patents."
+  },
+  {
+    "title": "Post-Processing Techniques for a Professional Finish",
+    "speakers": ["Maria Garcia"],
+    "category": ["finishing", "post-processing", "quality"],
+    "duration": 60,
+    "description": "A hands-on guide to various post-processing techniques to give your 3D prints a professional look and feel."
+  }
+]
