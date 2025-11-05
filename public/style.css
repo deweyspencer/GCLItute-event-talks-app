@@ -84,3 +84,10 @@ main {
   font-style: italic;
   color: #777;
 }
+
+.no-results {
+  text-align: center;
+  padding: 2rem;
+  color: #555;
+  font-size: 1.1rem;
+}

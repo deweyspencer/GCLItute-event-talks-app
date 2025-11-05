@@ -22,6 +22,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function renderSchedule(talksToRender) {
     scheduleContainer.innerHTML = '';
+
+    if (talksToRender.length === 0) {
+      const noResultsDiv = document.createElement('div');
+      noResultsDiv.classList.add('no-results');
+      noResultsDiv.textContent = 'No talks found for your search.';
+      scheduleContainer.appendChild(noResultsDiv);
+      return;
+    }
+
     let currentTime = new Date('2025-11-04T10:00:00');
 
     talksToRender.forEach((talk, index) => {
