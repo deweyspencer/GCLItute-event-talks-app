@@ -40,4 +40,4 @@ A simple, single-page web application to display the schedule for a one-day even
 ## Usage
 
 *   View the entire event schedule on the main page.
-*   Use the search bar at the top to filter the schedule by talk category. Type a category (e.g., "business", "materials") to see matching talks.
+*   Use the search bar at the top to filter the schedule by talk category or speaker. Type a category (e.g., "business", "materials") or a speaker's name to see matching talks.
